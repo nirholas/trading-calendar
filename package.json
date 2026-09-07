@@ -1,0 +1,29 @@
+{
+  "name": "trading-calendar",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gives a pool a trading session, and closes it by raising the price of immediacy rather than by reverting.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nirholas/trading-calendar.git"
+  },
+  "homepage": "https://trading-calendar.pages.dev",
+  "keywords": [
+    "uniswap",
+    "uniswap-v4",
+    "uniswap-hooks",
+    "defi",
+    "amm",
+    "solidity",
+    "dynamic-fee",
+    "schedule",
+    "rwa",
+    "oracle-free"
+  ],
+  "scripts": {
+    "build": "node web/build.mjs",
+    "contracts:build": "forge build",
+    "contracts:test": "forge test"
+  }
+}
