@@ -7,7 +7,7 @@ A production Uniswap v4 hook. It prices every swap by overriding the pool's LP f
 - **Site:** https://trading-calendar-6bp.pages.dev
 - **Catalogue:** https://hookforge.pages.dev
 - **Contract:** [`src/hooks/TradingCalendarHook.sol`](src/hooks/TradingCalendarHook.sol)
-- **Licence:** MIT
+- **Licence:** Apache-2.0
 
 ## How it works
 

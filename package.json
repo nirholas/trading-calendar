@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "description": "Gives a pool a trading session, and closes it by raising the price of immediacy rather than by reverting.",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/nirholas/trading-calendar.git"
