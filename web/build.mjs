@@ -13,7 +13,7 @@ const HERE = dirname(fileURLToPath(import.meta.url));
 const DIST = join(HERE, "dist");
 const hook = JSON.parse(readFileSync(join(HERE, "..", "hook.json"), "utf8"));
 
-const SITE = "https://trading-calendar.pages.dev";
+const SITE = "https://trading-calendar-6bp.pages.dev";
 const REPO = "https://github.com/nirholas/trading-calendar";
 const CATALOGUE = "https://hookforge.pages.dev";
 

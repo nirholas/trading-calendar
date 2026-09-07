@@ -59,4 +59,4 @@ permissionsOf(address);
 - **Anyone can configure a key that has no pool yet.** If someone front-runs your configuration with terms you did not want, pick a different `tickSpacing` and configure that instead. It is a different pool id and it costs them their gas.
 - **Deterministic addresses are not deployments.** An address published before a deploy is where the hook *will* be. There is no code at it until the deploy runs.
 
-More at https://trading-calendar.pages.dev.
+More at https://trading-calendar-6bp.pages.dev.

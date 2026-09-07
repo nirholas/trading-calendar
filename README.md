@@ -4,7 +4,7 @@
 
 A production Uniswap v4 hook. It prices every swap by overriding the pool's LP fee, so the value it captures is paid to in-range liquidity and never to the hook. No owner, no pause switch, no upgrade path.
 
-- **Site:** https://trading-calendar.pages.dev
+- **Site:** https://trading-calendar-6bp.pages.dev
 - **Catalogue:** https://hookforge.pages.dev
 - **Contract:** [`src/hooks/TradingCalendarHook.sol`](src/hooks/TradingCalendarHook.sol)
 - **Licence:** MIT
