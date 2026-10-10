@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "trading-calendar"
+abstract: "Gives a pool a trading session, and closes it by raising the price of immediacy rather than by reverting."
+license: Apache-2.0
+repository-code: "https://github.com/nirholas/trading-calendar"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
